@@ -11,7 +11,6 @@
     <li>Database    : MySQL</li>
     <li>Server     : Wamp - Xampp</li>
     <br />
-    <p>You can also do all the stuff using <b>Docker</b> if you want :) </p>
 </ul>
 
 <br />
@@ -36,6 +35,7 @@
 
 
 <h2>Setup the project ( How To ) : </h2>
+<p>Tip : You can also do all the following stuff using <b>Docker</b> if you want :) </p>
 <p>1. Install Wamp or Xampp as for PHP , Webserver and MySQL and then create a database</p>
 <p>2. Install Composer & NPM</p>
 <p>3. Clone this repository to a folder </p>
