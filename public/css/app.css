@@ -1,0 +1,12 @@
+/* @import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities"; */
+
+.card_price_box {
+    width: 60%;
+}
+
+.card_atc_box {
+    width: 40%;
+}
+
