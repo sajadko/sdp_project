@@ -18,7 +18,7 @@
 <br />
 
 
-<h2>Project Contributers : </h2>
+<h2>Project Contributors : </h2>
 <ul>
     <li><b>Sajad Kolahchi </b> - <a href="https://github.com/sajadko">Github Profile</a></li>
     <hr />
