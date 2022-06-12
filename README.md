@@ -36,10 +36,10 @@
 
 <h2>Setup the project ( How To ) : </h2>
 <p>Tip : You can also do all the following stuff using <b>Docker</b> if you want :) </p>
-<p>1. Install Wamp or Xampp as for PHP , Webserver and MySQL and then create a database</p>
+<p>1. Install Wamp or Xampp for PHP , Webserver and MySQL and then create a database</p>
 <p>2. Install Composer & NPM</p>
 <p>3. Clone this repository to a folder </p>
-<p>4. Copy .env.example file and remove ".example" from the name and open the .env file with vscode and enter databse name</p>
+<p>4. Copy .env.example file and remove ".example" from the name and open the .env file with vscode and enter databse name ( and change MySQL Default Port if its not 3306 )</p>
 <p>5. Run the following commands in the command line in the folder</p>
 <p><code>composer -v </code> // Checking Composer is installed successfully</p>
 <p><code>composer install</code> // Install PHP Dependencies</p>
