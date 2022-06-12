@@ -10,6 +10,8 @@
     <li>FrontEnd    : Laravel Blade Template Engin - Bootstrap</li>
     <li>Database    : MySQL</li>
     <li>Server     : Wamp - Xampp</li>
+    <br />
+    <p>You can also do all the stuff using <b>Docker</b> if you want :) </p>
 </ul>
 
 <br />
