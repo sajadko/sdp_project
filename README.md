@@ -51,7 +51,7 @@
 <br />
 <hr />
 <br />
-<p><b>Tadaaa !</b> now you can run the project by entering the following command , but the database is empty and there is no admin or consumer user , for seeding the databse with some dommy data , you can run also the second command . </p>
+<p><b>Tadaaa !</b> now you can run the project by entering the following commands , but the database is empty and there is no admin or consumer user , for seeding the databse with some dummy data , you can run also the second command . </p>
 
 <p><code>php artisan serve</code> // Run the laravel webserver</p>
 <p><code>php artisan db:seed</code> // Seed the database with the default data ( dummy data )</p>
