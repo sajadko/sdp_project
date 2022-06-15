@@ -7,7 +7,7 @@
 <h2>Technology and Tools ( Stack ) :</h2>
 <ul>
     <li>BackEnd     : PHP - Laravel 9</li>
-    <li>FrontEnd    : Laravel Blade Template Engin - Bootstrap</li>
+    <li>FrontEnd    : Laravel Blade Template Engine - Bootstrap</li>
     <li>Database    : MySQL</li>
     <li>Server     : Wamp - Xampp</li>
     <br />
